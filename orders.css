@@ -1,0 +1,9 @@
+.table-row tr{
+    height: 70px;
+    width: 50%;
+}
+#orders-list tbody tr:hover
+{
+    background-color: rgb(236, 232, 232);
+    cursor: pointer;
+}
